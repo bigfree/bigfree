@@ -1,4 +1,4 @@
-Hi, i am GraphQL padawan, Javascript`<lover>` 🧡 and ashtanga yoga student 🧘
+Hi, i am GraphQL padawan, `Javascript<lover>` 🧡 and ashtanga yoga student 🧘
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/adam-mik%C3%B3-0a88bb72/)
 
