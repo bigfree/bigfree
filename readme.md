@@ -16,10 +16,10 @@ Hi, i am GraphQL padawan, Javascript`<lover>` 🧡 and ashtanga yoga student �
 - 🍿 Streaming services
 - 🎵 Music
 
-<a href="https://steamcommunity.com/id/bigfree/" target="blank" alt="">
+<a href="https://steamcommunity.com/id/bigfree/" target="_blank" alt="">
 <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"/>
 </a>
-<a href="https://open.spotify.com/user/rfrolmxntmfhyua1mrnofb8sk?si=8827fb1e7a1e422f" target="blank" alt="">
+<a href="https://open.spotify.com/user/rfrolmxntmfhyua1mrnofb8sk?si=8827fb1e7a1e422f" target="_blank" alt="">
 <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/>
 </a>
 
